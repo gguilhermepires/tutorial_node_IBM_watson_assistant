@@ -18,7 +18,7 @@
         "express": "^4.13.4",
         "ibm-watson": "^5.4.0",
         "method-override": "2.3.x",
-        "morgan": "1.6.x",
+        "morgan": "1.9.x",
         "watson-developer-cloud": "2.27.1"
     },
     "engines": {
