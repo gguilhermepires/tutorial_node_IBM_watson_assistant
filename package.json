@@ -15,7 +15,7 @@
         "dotenv": "*",
         "ejs": "2.4.x",
         "errorhandler": "1.4.x",
-        "express": "^4.13.4",
+        "express": "^4.17.3",
         "ibm-watson": "^5.4.0",
         "method-override": "2.3.x",
         "morgan": "1.6.x",
